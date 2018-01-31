@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera Basic Demo</string>
+    <string name="click">Preview</string>
+    <string name="todo">Camera Capture</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="imageDesc">captured image</string>
+</resources>
